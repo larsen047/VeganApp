@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cordova-3.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/libs/cordova-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://plugins.jetbrains.com/plugin/download?pr=&amp;updateId=15529" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

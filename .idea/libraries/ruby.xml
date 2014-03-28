@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ruby">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Praktik_DyrenesAlliance/App_map/ruby/lib/ruby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

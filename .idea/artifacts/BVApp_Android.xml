@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="BVApp-Android">
+    <output-path>$PROJECT_DIR$/out/artifacts/BVApp_Android</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+      </options>
+    </properties>
+    <root id="archive" name="BVApp-Android.apk">
+      <element id="android-final-package" facet="BVApp-Android/android/Android" />
+    </root>
+  </artifact>
+</component>
